@@ -1,0 +1,19 @@
+{
+  "name": "vendor_name/medical_priority",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "shin_bae",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Patient\\": "src"
+    }
+  },
+  "require": {
+  }
+}
